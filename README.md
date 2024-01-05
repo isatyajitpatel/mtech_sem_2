@@ -1,1 +1,1 @@
-![vitbhopal](https://findlogovector.com/vit-bhopal-logo-vector-svg/)
+![vitbhopal](https://www.google.com/imgres?imgurl=https%3A%2F%2Fspng.pngfind.com%2Fpngs%2Fs%2F613-6131138_vit-bhopal-logo-vit-bhopal-logo-png-transparent.png&tbnid=zHTPIzGWo1iQmM&vet=12ahUKEwjA0rTwv8WDAxUzm2MGHXmLByoQMygEegQIARBP..i&imgrefurl=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FhwRmmRb_vit-bhopal-logo-vit-bhopal-logo-png-transparent%2F&docid=HSCSJJskTFlZeM&w=320&h=320&q=vit%20bhopal%20logo%20png&ved=2ahUKEwjA0rTwv8WDAxUzm2MGHXmLByoQMygEegQIARBP)
