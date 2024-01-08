@@ -1,12 +1,15 @@
-## ALT-subjects :-
+## subjects :-
 **sem 2**
+1. mlops
+2. ml in cyber
+3. modeling & simulation
+4. computational linguistics
+5. optimization in ml
+6. deep learning
 ```diff
-	-1. mlops
-	+2. ml in cyber
-	-3. modeling & simulation
-	+4. computational linguistics
-	-5. optimization in ml
-	@@6. deep learning@@
+	+README
+	-README
+	@@README@@
 ```
 <br>
 [vtop](https://vtop.vitbhopal.ac.in/vtop/open/page)
